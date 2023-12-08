@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/366928a4-db35-4ae9-a082-5a59aae03bc0/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/skindetectmore",
+    "appService.deploySubpath": "."
+}
